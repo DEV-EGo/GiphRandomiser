@@ -1,1 +1,2 @@
-# HomeWorkGiph
+# GIFtasticHomeWork
+Giphy HW
